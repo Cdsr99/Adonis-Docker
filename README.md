@@ -1,4 +1,6 @@
 # Adonis-Docker
+P.s: This is a simple Adonis API's project just to practice Dockers.
+ 
 To start this project you need to following step (With Docker installed):
 
 docker run -d -p 80:3333 caiorodrigues/adonis-docker:1
